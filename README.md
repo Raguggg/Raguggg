@@ -44,6 +44,6 @@ I specialize in web scraping using tools like Selenium, Scrapy, and Puppeteer in
 - Email: ragu19062002@gmail.com
 - Medium: [ragug.medium.com](https://ragug.medium.com/)
 - Instagram: [@ragu2k](https://www.instagram.com/ragu2k/)
-- GitHub: [RAguggg](https://github.com/raguggg)
+- GitHub: [Raguggg](https://github.com/raguggg)
 
 Feel free to explore my repositories and provide feedback. Let's code and learn together! 🚀
